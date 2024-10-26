@@ -19,7 +19,7 @@ The data visualization starts with a histogram of the target variable, Data Valu
 ![Bar](./Visualization%20Images/bar%20plot.jpg)
 ![Histogram](./Visualization%20Images/histogram.jpg)
 ![Line](./Visualization%20Images/line%20plot.jpg)
-![Scatter](./Visualization%20Images/scatter.jpg)
+![Scatter](./Visualization%20Images/scatterreal.jpg)
 
 ## Model Development
 The model development process involved the use of four distinct regression algorithms such as Linear Regression, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor. Each model was trained on the preprocessed dataset, which included handling missing values, converting date formats, and encoding categorical variables. The Gradient Boosting Regressor was further optimized through hyperparameter tuning using GridSearchCV to achieve the best possible performance. This multi-model approach ensured a comprehensive evaluation of the dataset's predictive capabilities across different modeling techniques.t.
